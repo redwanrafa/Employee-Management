@@ -1,0 +1,9 @@
+<?php
+session_start();
+$mp=1;
+    include("header.php");
+	include("slider.php");
+	?>
+   <?php
+   include("footer.php");
+   ?>
